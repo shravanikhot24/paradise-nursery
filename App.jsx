@@ -9,7 +9,7 @@ function Home() {
       <div className="landing-overlay">
         <div className="landing-content">
           <p className="eyebrow light">Bring nature home</p>
-          <h1>Paradise Nursery</h1>
+          <h1>Welcome to Paradise Nursery</h1>
           <p className="landing-tagline">A little green makes a world of difference.</p>
           <AboutUs />
           <Link to="/plants" className="primary-btn get-started">Get Started</Link>
